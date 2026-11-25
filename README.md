@@ -73,14 +73,6 @@ JVM, Linux, Git.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Selected Projects
-
-| Project | Description | Technical Focus |
-| --- | --- | --- |
-| [Webserver](https://github.com/wtpbell/Webserver) | An event-driven HTTP server built from scratch in C++. | Networking, HTTP, non-blocking I/O, epoll |
-| [miniRT](https://github.com/wtpbell/miniRT) | A multithreaded ray tracing engine written in C. | Computer graphics, BVH, algorithms, multithreading |
-| [minishell](https://github.com/wtpbell/minishell) | A Unix shell implementation written in C. | Process management, parsing, pipes, Unix signals |
-
 ## Currently Working On
 
 ### ft_transcendence
